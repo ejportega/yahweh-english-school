@@ -4,7 +4,7 @@
     private $db_host = "otwsl2e23jrxcqvx.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
     private $db_user = "l1jaqgen2zks3wc0";
     private $db_pass = "b2c0er3u92yj2mm6";
-    private $db_name = "yahwehenglishschool";
+    private $db_name = "qn5bf6k2f9s0ogli";
 
     function connect() {
       $conn = new mysqli($this->db_host,$this->db_user, $this->db_pass, $this->db_name);
