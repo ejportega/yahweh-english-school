@@ -31,7 +31,7 @@
 
       // Check connection
       if ($conn->connect_error) {
-          die("Connection failed: " . $conn->connect_error);
+          die("Connection failed hehe: " . $conn->connect_error);
       }
       // echo "Connection was successfully established!";
       return $conn;
