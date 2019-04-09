@@ -1,9 +1,9 @@
 <?php
 
   class dbConnection {
-    private $db_host = "localhost";
-    private $db_user = "root";
-    private $db_pass = "";
+    private $db_host = "otwsl2e23jrxcqvx.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+    private $db_user = "l1jaqgen2zks3wc0";
+    private $db_pass = "b2c0er3u92yj2mm6";
     private $db_name = "yahwehenglishschool";
 
     function connect() {
