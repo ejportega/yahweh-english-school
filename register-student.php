@@ -381,8 +381,8 @@
 						'submit': submit
 					},
 					success: function(data) {
-						console.log('success');
-						if (data == 'no_error') {
+						// console.log('success');
+						if (data.trim() == 'no_error') {
 							// location.href = 'register-success.php?user=student';
 							$(document).keydown(function (e) {
 								return (e.which || e.keyCode) != 116;

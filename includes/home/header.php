@@ -17,5 +17,5 @@
     <script src="https://use.fontawesome.com/b365c50be6.js"></script>  
     <!-- <link rel="stylesheet" href="/y/dist/css/font-awesome/css/font-awesome.min.css"> -->
     <!-- MY CSS style -->
-    <link rel="stylesheet" href="dist/css/style.css">
+    <link rel="stylesheet" href="../dist/css/style.css">
 </head>
